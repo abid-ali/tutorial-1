@@ -11,7 +11,7 @@
 # try reopening this page in a different browser - Chrome or the latest Firefox.
 # -----------------------------------------------------------------------------
 
-for i in range(10):
+for i in range(20):
     print "Hello", i
 
 # -----------------------------------------------------------------------------
